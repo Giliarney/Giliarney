@@ -1,6 +1,6 @@
 # 💫 About Me:
-Sou Giliarney, sou estudante de Análise e Desenvolvimento de Sistemas, com objetivo Fullstack.
-Já tenho conhecimento em HTML e CSS e estou aprendendo JavasScript, Python e Java.
+Estudante de Análise e Desenvolvimento de Sistemas, com objetivo Fullstack.
+
 
 
 ## 🌐 Socials:
